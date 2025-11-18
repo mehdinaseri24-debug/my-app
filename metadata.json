@@ -1,0 +1,5 @@
+{
+  "name": "Forex Lot Size Calculator",
+  "description": "An application that takes a Forex signal and a risk percentage to calculate the appropriate lot size and the dollar amount at risk, based on a fixed capital of $500.",
+  "requestFramePermissions": []
+}
